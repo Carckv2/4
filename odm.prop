@@ -1,0 +1,5 @@
+ro.omc.build.id=41155030
+ro.omc.build.version=J810GODM5CUF3
+ro.omc.changetype=DATA_RESET_ON,TRUE
+ro.omc.disabler=FALSE
+ro.simbased.changetype=NO_DFLT_CSC,OMC
